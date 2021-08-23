@@ -16,7 +16,7 @@ Written in TypeScript.
 
 ## Start Development
 
-Kindly clone the repo ``
+Kindly clone the [repo](https://github.com/florenzino/wallet-system)
 
 ### Setup
 
