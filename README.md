@@ -8,7 +8,7 @@ API Documentation [here](https://documenter.getpostman.com/view/17190443/TzzDKFS
 
 ---
 
-**API** built with Node + Express + Postgres + Sequelize + Jest.
+**API** built with Node + Express + Postgres + Sequelize + Jest + Docker-Compose.
 
 Written in TypeScript.
 
